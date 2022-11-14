@@ -95,7 +95,7 @@ Om dezelfde indicatoren zoals bij New Product Development genoemd, nogmaals af t
 
 > Ontwerpgeschiedenis
 
-Om dezelfde indicatoren zoals bij Media Impact  genoemd, nogmaals af te dekken. CMD studenten hebben dit in het Propedeusjaar ook twee keer moeten doen.
+Om dezelfde indicatoren zoals bij Media Impact genoemd, nogmaals af te dekken. CMD studenten hebben dit in het Propedeusjaar ook twee keer moeten doen.
 
 > Project 2 uit de Propedeuse
 
