@@ -68,6 +68,7 @@ Hiermee worden de volgende indicatoren die onder de CMD competentie 'Verbeelden 
 Hiermee worden alle indicatoren die onder de CMD competentie 'Samen ontwerpen' vallen, gedekt. Deze competentie beheersen FDND studenten over het algemeen al, aangezien ze al veel hebben moeten samenwerken. Maar omdat de overgang voor sommige studenten groot kan zijn en ze in dit project vrij gelaten worden, denken we dat het een goed project is om andere studenten te leren kennen en te wennen aan de manier van werken bij CMD.
 
 
+<img width="1023" alt="Screenshot 2022-11-14 at 14 58 08" src="https://user-images.githubusercontent.com/55133339/201680826-f58545ed-d4ea-46e7-8a53-1f3bdb2b3236.png">
 
 
 
