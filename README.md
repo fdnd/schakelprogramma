@@ -8,7 +8,7 @@ Wij hebben de vijf gedragsindicatoren van FDND vergeleken met de (nieuwe) compet
 FDND studenten werken vanaf het begin van de opleiding met echte opdrachtgevers. Ze werken regelmatig samen en hebben, als ze aan het schakelprogramma beginnen, al veel ervaring met techniek. 
 
 <img width="837" alt="Screenshot 2022-11-14 at 14 58 21" src="https://user-images.githubusercontent.com/55133339/201681417-73b25f39-db40-4d84-b807-9a59767729c4.png">
-*De niveaumatrix van FDND met in de bovenste rij het eindniveau (paars gemarkeerd).*
+*De niveaumatrix van FDND met in de tweede rij van boven het eindniveau (paars gemarkeerd).*
 
 
 Ze hebben op niveau 5 gestudeerd, wat inhoudt dat ze probleemoplossend vermogen hebben ontwikkeld. Dit betekent dat ze technische en ontwerpproblemen kunnen oplossen en oplossingen kunnen realiseren voor een opdrachtgever. Ze hebben nog niet veel onderzoekend vermogen ontwikkeld. Dus ze onderzoeken de grotere context van een ontwerpprobleem nog niet en betrekken ook geen theorie bij een vraagstuk. Daarnaast hebben ze nog geen maatschappelijke en kritische visie ontwikkeld.
