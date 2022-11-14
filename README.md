@@ -30,6 +30,7 @@ Hiermee worden de volgende indicatoren die onder de CMD competentie 'Persoonlijk
 > Benoemt behandelde (internationale) ontwikkelingen in het vakgebied.
 >
 > Benadert opdrachten kritisch en maakt onderbouwd keuzes.
+> 
 
 En onder de CMD competentie 'Evalueren', de volgende indicator:
 
@@ -45,16 +46,19 @@ Hiermee worden de volgende indicatoren die onder de CMD competentie 'Vakkundig e
 > Doet onderzoek in alle fases van het project met aangereikte ontwerptheorieën en methodieken.
 >
 > Toetst ontwerpideeën aan het probleem.
+> 
 
 Onder de CMD competentie 'Orienteren en begrijpen', de volgende indicatoren:
 
 > Voert onderoek uit en past de ontwerpvraag hierop aan.
 > Is op de hoogte van verschillende gegeven invalshoeken en weegt deze mee in de ontwerpvraag.
+>
 
 Onder de CMD competentie 'Georganiseerd en professioneel ontwerpen', de volgende indicatoren:
 
 >Kan een ontwerpproces uitvoeren en overdragen.
 >Communiceert en onderbouwt ontwerpkeuzes en producten passend bij het publiek. Kan informeren, overleggen en overtuigen.
+
 
 
 
@@ -68,6 +72,7 @@ Hiermee worden de volgende indicatoren die onder de CMD competentie 'Verbeelden 
 
 
 
+
 ##### Het Passie project (een team project)
 
 Hiermee worden alle indicatoren die onder de CMD competentie 'Samen ontwerpen' vallen, gedekt. Deze competentie beheersen FDND studenten over het algemeen al, aangezien ze al veel hebben moeten samenwerken. Maar omdat de overgang voor sommige studenten groot kan zijn en ze in dit project vrij gelaten worden, denken we dat het een goed project is om andere studenten te leren kennen en te wennen aan de manier van werken bij CMD.
@@ -75,9 +80,9 @@ Hiermee worden alle indicatoren die onder de CMD competentie 'Samen ontwerpen' v
 
 <img width="1023" alt="Screenshot 2022-11-14 at 14 58 08" src="https://user-images.githubusercontent.com/55133339/201680826-f58545ed-d4ea-46e7-8a53-1f3bdb2b3236.png">
 
-
-
 *Het (nieuwe) CMD competentiemodel met in het paars de indicatoren waaraan de FDND student voorafgaand aan het schakelprogramma al voldoet, en in het rood de indicatoren waaraan voldaan is wanneer de student het schakelprogramma heeft gevolgd.*
+
+
 
 ### Het verloop bij CMD als het Associate degree diploma is behaald
 
@@ -97,21 +102,26 @@ Het eerste voorstel is mogelijk omdat FDND studenten tijdens hun gehele studie v
 
 Dit vak wordt afgerond met een theorie-examen en zou o.a. om die reden een goede manier zijn om te kijken of de student het bachelor niveau daadwerkelijk aankan. 
 
+
 > User centered design
 
 Om dezelfde indicatoren zoals bij New Product Development genoemd, nogmaals af te dekken. CMD studenten hebben dit in het Propedeusjaar ook twee keer moeten doen.
+
 
 > Ontwerpgeschiedenis
 
 Om dezelfde indicatoren zoals bij Media Impact genoemd, nogmaals af te dekken. CMD studenten hebben dit in het Propedeusjaar ook twee keer moeten doen.
 
+
 > Project 2 uit de Propedeuse
 
 Om het zelfstandig werken aan een project en het hele proces van A naar B alleen uit te leren voeren. CMD-studenten hebben dit in de Propedeuse twee keer moeten doen. FDND studenten hebben weliswaar zelfstandig frontend-projecten uitgevoerd maar daarin de onderzoekende fase nooit alleen uitgevoerd.
 
+
 > Een SRP-project dat verplicht gericht is op taal en formulering
 
 Bij FDND besteden we nog weinig aandacht aan taal. CMD-studenten moeten inhoudelijker documentatie kunnen schrijven. De studenten zouden bijvoorbeeld de MOOC 'Beter schrijven' kunnen doen. 
+
 
 
 
@@ -121,11 +131,10 @@ Studenten kunnen blok WEB overslaan aangezien er tijdens dit blok vooral aandach
 
 
 
+
 ##### De rest van de studie
 
-Voor het uitdenken van de rest van het pad hebben we gekeken naar hoe studenten zoveel mogelijk dezelfde onderdelen zouden volgen als een reguliere CMD-student. Het enige verschil in dit voorstel is dat de voormalig FDND-student in dit voorstel geen stage loopt. 
-
-
+Voor het uitdenken van de rest van het pad hebben we gekeken naar hoe studenten zoveel mogelijk dezelfde onderdelen zouden volgen als een reguliere CMD-student. Het enige verschil in dit voorstel is dat de voormalig FDND-student in dit voorstel geen stage loopt.
 
 ##### 		Jaar 1 (3) - blok 2
 
@@ -149,4 +158,7 @@ Voor het uitdenken van de rest van het pad hebben we gekeken naar hoe studenten 
 
 
 
+
+
 #### Voorstel 2
+
