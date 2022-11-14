@@ -83,12 +83,15 @@ Hiermee worden alle indicatoren die onder de CMD competentie 'Samen ontwerpen' v
 
 WIj doen voor het vervolg van de studie bij CMD twee voorstellen. Een waarbij er geen korte of lange stage wordt gelopen en een waarbij er wel een stage wordt gelopen.
 
-1. Het eerste voorstel is mogelijk omdat FDND studenten tijdens hun gehele studie voor echte opdrachtgevers hebben gewerkt, soms zelfs op locatie. Ze hebben dus veel praktijkervaring opgedaan en kunnen hun twee jaar op de bacheloropleiding besteden om dieper en inhoudelijker op het ontwerpproces en de context van een vraagstuk in te gaan. Een student zou in dit voorstel de volgende vakken volgen:
 
-   
 
-   ##### Jaar 1 (3) - blok 1
+#### Voorstel 1
 
+Het eerste voorstel is mogelijk omdat FDND studenten tijdens hun gehele studie voor echte opdrachtgevers hebben gewerkt, soms zelfs op locatie. Ze hebben dus veel praktijkervaring opgedaan en kunnen hun twee jaar op de bacheloropleiding besteden om dieper en inhoudelijker op het ontwerpproces en de context van een vraagstuk in te gaan. Een student zou in dit voorstel de volgende vakken volgen:
+
+
+
+##### Jaar 1 (3) - blok 1
 
 > Human computer interaction
 
@@ -136,8 +139,6 @@ Voor het uitdenken van de rest van het pad hebben we gekeken naar hoe studenten 
 
 > Profileringsproject + profileringsvak (dit mag niet Frontend for Designers zijn)
 
-#### 	
-
 ##### 		Jaar 2 (4)- blok 1 + 2
 
 > CMD Minor
@@ -145,3 +146,7 @@ Voor het uitdenken van de rest van het pad hebben we gekeken naar hoe studenten 
 ##### 		Jaar 2 (4)- blok 3 + 4
 
 > Afstudeerproject
+
+
+
+#### Voorstel 2
