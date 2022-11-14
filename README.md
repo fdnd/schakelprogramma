@@ -71,20 +71,11 @@ Hiermee worden alle indicatoren die onder de CMD competentie 'Samen ontwerpen' v
 
 
 
+![Screenshot 2022-11-14 at 14.58.08](/Users/charleymuhren/Desktop/Screenshot 2022-11-14 at 14.58.08.png)
 
-
-
+*Het (nieuwe) CMD competentiemodel met in het paars de indicatoren waaraan de FDND student voorafgaand aan het schakelprogramma al voldoet, en in het rood de indicatoren waaraan voldaan is wanneer de student het schakelprogramma heeft gevolgd.*
 
 ### Het verloop bij CMD als het Associate degree diploma is behaald
 
 1. 
 2. 
-
-
-
-
-
-
-
-
-
