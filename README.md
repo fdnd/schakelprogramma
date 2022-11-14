@@ -12,6 +12,7 @@ FDND studenten werken vanaf het begin van de opleiding met echte opdrachtgevers.
 *De niveaumatrix van FDND met in de tweede rij van boven het eindniveau (paars gemarkeerd).*
 
 
+
 Ze hebben op niveau 5 gestudeerd, wat inhoudt dat ze probleemoplossend vermogen hebben ontwikkeld. Dit betekent dat ze technische en ontwerpproblemen kunnen oplossen en oplossingen kunnen realiseren voor een opdrachtgever. Ze hebben nog niet veel onderzoekend vermogen ontwikkeld. Dus ze onderzoeken de grotere context van een ontwerpprobleem nog niet en betrekken ook geen theorie bij een vraagstuk. Daarnaast hebben ze nog geen maatschappelijke en kritische visie ontwikkeld.
 
 Ten slotte hebben ze zich, in vergelijking met CMD studenten aan het eind van jaar 2, voornamelijk op de techniek (frontend) gericht en nog niet genoeg op (interface) design.
@@ -19,6 +20,7 @@ Ten slotte hebben ze zich, in vergelijking met CMD studenten aan het eind van ja
 In dit schakelprogramma moet dus aandacht zijn voor onderzoekend vermogen, de theorie achter/van het ontwerpen en (interface) design. Wij stellen het volgende voor:
 
 Een FDND student volgt in het schakelprogramma de volgende vakken:
+
 
 
 
@@ -32,9 +34,12 @@ Hiermee worden de volgende indicatoren die onder de CMD competentie 'Persoonlijk
 > Benadert opdrachten kritisch en maakt onderbouwd keuzes.
 > 
 
+
 En onder de CMD competentie 'Evalueren', de volgende indicator:
 
 > Ziet de maatschappelijke gevolgen van een ontwerp.
+
+
 
 
 
@@ -62,6 +67,8 @@ Onder de CMD competentie 'Georganiseerd en professioneel ontwerpen', de volgende
 
 
 
+
+
 ##### Visual Interface Design
 
 Hiermee worden de volgende indicatoren die onder de CMD competentie 'Verbeelden en conceptualiseren' vallen, gedekt:
@@ -73,9 +80,13 @@ Hiermee worden de volgende indicatoren die onder de CMD competentie 'Verbeelden 
 
 
 
+
+
 ##### Het Passie project (een team project)
 
 Hiermee worden alle indicatoren die onder de CMD competentie 'Samen ontwerpen' vallen, gedekt. Deze competentie beheersen FDND studenten over het algemeen al, aangezien ze al veel hebben moeten samenwerken. Maar omdat de overgang voor sommige studenten groot kan zijn en ze in dit project vrij gelaten worden, denken we dat het een goed project is om andere studenten te leren kennen en te wennen aan de manier van werken bij CMD.
+
+
 
 
 <img width="1023" alt="Screenshot 2022-11-14 at 14 58 08" src="https://user-images.githubusercontent.com/55133339/201680826-f58545ed-d4ea-46e7-8a53-1f3bdb2b3236.png">
