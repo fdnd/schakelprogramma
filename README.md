@@ -101,7 +101,7 @@ Om dezelfde indicatoren zoals bij New Product Development genoemd, nogmaals af t
 
 > Ontwerpgeschiedenis
 
-Om dezelfde indicatoren zoals bij Media Impact  genoemd, nogmaals af te dekken. CMD studenten hebben dit in het Propedeusjaar ook twee keer moeten doen.
+Om dezelfde indicatoren zoals bij Media Impact genoemd, nogmaals af te dekken. CMD studenten hebben dit in het Propedeusjaar ook twee keer moeten doen.
 
 > Project 2 uit de Propedeuse
 
@@ -110,6 +110,7 @@ Om het zelfstandig werken aan een project en het hele proces van A naar B alleen
 > Een SRP-project dat verplicht gericht is op taal en formulering
 
 Bij FDND besteden we nog weinig aandacht aan taal. CMD-studenten moeten inhoudelijker documentatie kunnen schrijven. De studenten zouden bijvoorbeeld de MOOC 'Beter schrijven' kunnen doen. 
+
 
 Studenten kunnen blok WEB overslaan aangezien er tijdens dit blok vooral aandacht is voor de competentie 'Prototypen en uitwerken'. Aan deze indicatoren is tijdens de studie bij FDND al voldaan. 
 
@@ -137,4 +138,4 @@ Voor het uitdenken van de rest van het pad hebben we gekeken naar hoe studenten 
 
 ##### 		Blok 3 + 4
 
-> Afstudeerproject 
+> Afstudeerproject
