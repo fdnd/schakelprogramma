@@ -85,6 +85,12 @@ WIj doen voor het vervolg van de studie bij CMD twee voorstellen. Een waarbij er
 
 1. Het eerste voorstel is mogelijk omdat FDND studenten tijdens hun gehele studie voor echte opdrachtgevers hebben gewerkt, soms zelfs op locatie. Ze hebben dus veel praktijkervaring opgedaan en kunnen hun twee jaar op de bacheloropleiding besteden om dieper en inhoudelijker op het ontwerpproces en de theorie rondom, en context van, een vraagstuk in te gaan. Een student zou in dit voorstel de volgende vakken volgen:
 
+   
+
+   #### Jaar 1 (3)
+
+   ##### Blok 1
+
 > Human computer interaction
 
 Dit vak wordt afgerond met een theorie-examen en zou o.a. om die reden een goede manier zijn om te kijken of de student het bachelor niveau daadwerkelijk aankan. 
@@ -104,3 +110,31 @@ Om het zelfstandig werken aan een project en het hele proces van A naar B alleen
 > Een SRP-project dat verplicht gericht is op taal en formulering
 
 Bij FDND besteden we nog weinig aandacht aan taal. CMD-studenten moeten inhoudelijker documentatie kunnen schrijven. De studenten zouden bijvoorbeeld de MOOC 'Beter schrijven' kunnen doen. 
+
+Studenten kunnen blok WEB overslaan aangezien er tijdens dit blok vooral aandacht is voor de competentie 'Prototypen en uitwerken'. Aan deze indicatoren is tijdens de studie bij FDND al voldaan. 
+
+Voor het uitdenken van de rest van het pad hebben we gekeken naar hoe studenten zoveel mogelijk dezelfde onderdelen zouden volgen als een reguliere CMD-student. Het enige verschil in dit voorstel is dat de voormalig FDND-student in dit voorstel geen stage loopt. 
+
+##### 		Blok 2
+
+> Blok Beyond
+
+##### 		Blok 3
+
+> Profileringsproject + profileringsvak (dit mag niet Frontend for Designers zijn)
+
+##### 		Blok 4
+
+> Profileringsproject + profileringsvak (dit mag niet Frontend for Designers zijn)
+
+#### 	
+
+#### 	Jaar 2 (4)
+
+##### 		Blok 1 + 2
+
+> CMD Minor
+
+##### 		Blok 3 + 4
+
+> Afstudeerproject 
