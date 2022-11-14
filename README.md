@@ -81,5 +81,26 @@ Hiermee worden alle indicatoren die onder de CMD competentie 'Samen ontwerpen' v
 
 ### Het verloop bij CMD als het Associate degree diploma is behaald
 
-1. 
-2. 
+WIj doen voor het vervolg van de studie bij CMD twee voorstellen. Een waarbij er geen korte of lange stage wordt gelopen en een waarbij er wel een stage wordt gelopen.
+
+1. Het eerste voorstel is mogelijk omdat FDND studenten tijdens hun gehele studie voor echte opdrachtgevers hebben gewerkt, soms zelfs op locatie. Ze hebben dus veel praktijkervaring opgedaan en kunnen hun twee jaar op de bacheloropleiding besteden om dieper en inhoudelijker op het ontwerpproces en de theorie rondom, en context van, een vraagstuk in te gaan. Een student zou in dit voorstel de volgende vakken volgen:
+
+> Human computer interaction
+
+Dit vak wordt afgerond met een theorie-examen en zou o.a. om die reden een goede manier zijn om te kijken of de student het bachelor niveau daadwerkelijk aankan. 
+
+> User centered design
+
+Om dezelfde indicatoren zoals bij New Product Development genoemd, nogmaals af te dekken. CMD studenten hebben dit in het Propedeusjaar ook twee keer moeten doen.
+
+> Ontwerpgeschiedenis
+
+Om dezelfde indicatoren zoals bij Media Impact  genoemd, nogmaals af te dekken. CMD studenten hebben dit in het Propedeusjaar ook twee keer moeten doen.
+
+> Project 2 uit de Propedeuse
+
+Om het zelfstandig werken aan een project en het hele proces van A naar B alleen uit te leren voeren. CMD-studenten hebben dit in de Propedeuse twee keer moeten doen. FDND studenten hebben weliswaar zelfstandig frontend-projecten uitgevoerd maar daarin de onderzoekende fase nooit alleen uitgevoerd.
+
+> Een SRP-project dat verplicht gericht is op taal en formulering
+
+Bij FDND besteden we nog weinig aandacht aan taal. CMD-studenten moeten inhoudelijker documentatie kunnen schrijven. De studenten zouden bijvoorbeeld de MOOC 'Beter schrijven' kunnen doen. 
