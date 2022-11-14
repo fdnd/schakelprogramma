@@ -83,7 +83,7 @@ Hiermee worden alle indicatoren die onder de CMD competentie 'Samen ontwerpen' v
 
 WIj doen voor het vervolg van de studie bij CMD twee voorstellen. Een waarbij er geen korte of lange stage wordt gelopen en een waarbij er wel een stage wordt gelopen.
 
-1. Het eerste voorstel is mogelijk omdat FDND studenten tijdens hun gehele studie voor echte opdrachtgevers hebben gewerkt, soms zelfs op locatie. Ze hebben dus veel praktijkervaring opgedaan en kunnen hun twee jaar op de bacheloropleiding besteden om dieper en inhoudelijker op het ontwerpproces en de theorie rondom, en context van, een vraagstuk in te gaan. Een student zou in dit voorstel de volgende vakken volgen:
+1. Het eerste voorstel is mogelijk omdat FDND studenten tijdens hun gehele studie voor echte opdrachtgevers hebben gewerkt, soms zelfs op locatie. Ze hebben dus veel praktijkervaring opgedaan en kunnen hun twee jaar op de bacheloropleiding besteden om dieper en inhoudelijker op het ontwerpproces en de context van een vraagstuk in te gaan. Een student zou in dit voorstel de volgende vakken volgen:
 
    
 
