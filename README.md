@@ -87,9 +87,8 @@ WIj doen voor het vervolg van de studie bij CMD twee voorstellen. Een waarbij er
 
    
 
-   #### Jaar 1 (3)
+   ##### Jaar 1 (3) - blok 1
 
-   ##### Blok 1
 
 > Human computer interaction
 
@@ -112,30 +111,37 @@ Om het zelfstandig werken aan een project en het hele proces van A naar B alleen
 Bij FDND besteden we nog weinig aandacht aan taal. CMD-studenten moeten inhoudelijker documentatie kunnen schrijven. De studenten zouden bijvoorbeeld de MOOC 'Beter schrijven' kunnen doen. 
 
 
+
+##### Wat doen ze niet?
+
 Studenten kunnen blok WEB overslaan aangezien er tijdens dit blok vooral aandacht is voor de competentie 'Prototypen en uitwerken'. Aan deze indicatoren is tijdens de studie bij FDND al voldaan. 
+
+
+
+##### De rest van de studie
 
 Voor het uitdenken van de rest van het pad hebben we gekeken naar hoe studenten zoveel mogelijk dezelfde onderdelen zouden volgen als een reguliere CMD-student. Het enige verschil in dit voorstel is dat de voormalig FDND-student in dit voorstel geen stage loopt. 
 
-##### 		Blok 2
+
+
+##### 		Jaar 1 (3) - blok 2
 
 > Blok Beyond
 
-##### 		Blok 3
+##### 		Jaar 1 (3) - blok 3
 
 > Profileringsproject + profileringsvak (dit mag niet Frontend for Designers zijn)
 
-##### 		Blok 4
+##### 		Jaar 1 (3) - blok 4
 
 > Profileringsproject + profileringsvak (dit mag niet Frontend for Designers zijn)
 
 #### 	
 
-#### 	Jaar 2 (4)
-
-##### 		Blok 1 + 2
+##### 		Jaar 2 (4)- blok 1 + 2
 
 > CMD Minor
 
-##### 		Blok 3 + 4
+##### 		Jaar 2 (4)- blok 3 + 4
 
 > Afstudeerproject
