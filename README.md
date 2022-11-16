@@ -1,30 +1,36 @@
-# Schakelprogramma
+# Aansluiting Ad FDND (niveau 5) -> Ba CMD (niveau 6)
 
-### Voorstel voor het schakelprogramma van FDND naar CMD
+Studenten aan de Ad FDND (niveau 5) hebben in het eerste blok van semester 4 de ruimte om een schakelprogramma naar de bacheloropleding CMD (niveau 6) te volgen. Dit schakelprogramma moet studenten in staat stellen de overgang naar de bachelor te maken en deze vervolgens in 120 EC's te halen. We beschrijven eerst het schakelprogramma en de reden waarom dit is ingericht zoals voorgesteld. Daarna nemen we een schot voor de boeg met twee voorstellen voor het vervolg bij CMD. 
 
-Studenten aan de Ad FDND (niveau 5)  hebben in het eerste blok van semester 4 de ruimte om een schakelprogramma naar de bacheloropleding CMD (niveau 6) te volgen. Dit schakelprogramma moet studenten in staat stellen de overgang naar de bachelor te maken en deze vervolgens in 120 EC's te halen. 
+## Schakelprogramma
 
-Wij hebben de vijf gedragsindicatoren van FDND vergeleken met de (nieuwe) competenties van CMD en gekeken welke competenties/indicatoren wel zijn aangeleerd en getoetst en welke niet.
-FDND studenten werken vanaf het begin van de opleiding met echte opdrachtgevers. Ze werken regelmatig samen en hebben, als ze aan het schakelprogramma beginnen, al veel ervaring met techniek. 
+Het doel van het schakelprogramma is drieledig, enerzijds moet CMD toetsen of ze aankomend student in staat acht met goed gevolg het schakelprogramma te volgen. Anderzijds onderzoekt de aankomend student of CMD daadwerkelijk iets voor diegene is. Tenslotte is het prettig als het schakelprogramma al een aanzet neemt tot het opheffen van hiaten in de kennis, houding en vaardigheden van de aankomend student ten behoeve van een soepele(re) overgang.
 
-<img width="837" alt="Screenshot 2022-11-14 at 14 58 21" src="https://user-images.githubusercontent.com/55133339/201681417-73b25f39-db40-4d84-b807-9a59767729c4.png">
+Om antwoord te geven zijn we begonnen met het vergelijken van de beoordelingsmodellen van beide opleidingen. Daarin constateerden we zoals aanvankelijk verwacht enige overlap maar natuurlijk ook hiaten. Aan de hand van deze hiaten en gericht op het fundamentsniveau bij CMD is een voorstel voor een schakelprogramma opgesteld.
 
-*De niveaumatrix van FDND met in de tweede rij van boven het eindniveau (paars gemarkeerd).*
+### Twee beoordelingsmodellen
 
+Wij hebben de vijf gedragscriteria van FDND vergeleken met de nieuwe competenties van CMD en gekeken welke competenties/indicatoren wel zijn aangeleerd en getoetst en welke niet. Allereerst de FDND niveaumatrix, met paars is het eindniveau gemarkeerd. Na afronding van de Ad FDND hebben studenten de vijf gedragscriteria aangetoond door middel van de paars gemarkeerde gedragsindicatoren.
 
+![FDND niveaumatrix](https://user-images.githubusercontent.com/55133339/201681417-73b25f39-db40-4d84-b807-9a59767729c4.png)
 
-Ze hebben op niveau 5 gestudeerd, wat inhoudt dat ze probleemoplossend vermogen hebben ontwikkeld. Dit betekent dat ze technische en ontwerpproblemen kunnen oplossen en oplossingen kunnen realiseren voor een opdrachtgever. Ze hebben nog niet veel onderzoekend vermogen ontwikkeld. Dus ze onderzoeken de grotere context van een ontwerpprobleem nog niet en betrekken ook geen theorie bij een vraagstuk. Daarnaast hebben ze nog geen maatschappelijke en kritische visie ontwikkeld.
+Dan het nieuwe CMD competentiemodel. In het paars zijn indicatoren gemarkeerd waar de FDND student voorafgaand aan het schakelprogramma al aan voldoet. Deze overlap is tot stand gekomen door grondige bestudering van beide modellen en voorgelegd aan leden van de examencommissie en curriculumcommissie voor aanvang van de zomer 2022. In dit model is in het rood gemarkeerd op welke hiaten het schakelprogramma gericht is, merk op dat alle hier bedoelde indicatoren uit het fundament van CMD komen.
 
-Ten slotte hebben ze zich, in vergelijking met CMD studenten aan het eind van jaar 2, voornamelijk op de techniek (frontend) gericht en nog niet genoeg op (interface) design.
+![CMD competentiemodel met ](https://user-images.githubusercontent.com/55133339/201680826-f58545ed-d4ea-46e7-8a53-1f3bdb2b3236.png)
 
-In dit schakelprogramma moet dus aandacht zijn voor onderzoekend vermogen, de theorie achter/van het ontwerpen en (interface) design. Wij stellen het volgende voor:
+### Overlap en hiaten
 
-Een FDND student volgt in het schakelprogramma de volgende vakken:
+FDND studenten werken vanaf het begin van de opleiding met échte opdrachten van échte opdrachtgevers. Ze werken regelmatig samen en hebben als ze aan het schakelprogramma beginnen al veel ervaring met techniek. Op dit specifieke vlak zijn ze voorbij de einddoelen van de minor web zoals deze bij CMD aangeboden wordt. Er zijn natuurlijk ook best wat hiaten in hun kennis waar het schakelprogramma en het vervolg bij CMD op gericht zijn.
 
+FDND afstudeerders hebben Frontend Design en Development op niveau 5 gestudeerd. Dit betekent dat ze na het behalen van hun diploma: i) een cyclische (Agile) projectmethodiek beheersen en webprojecten zelfstandig kunnen inrichten en uitvoeren. ii) Ontwerp- en technische problemen individueel, met een klein team of met een groot team kunnen oplossen. iii) Rekening houden met belanghebbenden, met name op het gebied van usability, accessibility en performance. iv) Oplossingen kunnen realiseren voor een opdrachtgever en v) weten waar ze staan en zelfstandig verder kunnen leren op frontend vlak.
 
+Ze hebben echter geen ervaring met ontwerponderzoek, wat inhoudt dat ze: i) de grotere context van een ontwerp probleem niet onderzoeken, ii) weinig theoretische onderbouwing gebruiken bij het oplossen van een vraagstuk (slechts op het gebied van ontwerp- en realisatiekeuzes). En iii) nog weinig kritisch maatschappelijke visie hebben ontwikkeld. iv) Daarnaast hebben ze écht nog wat te leren op het gebied van ontwerpen in de bredere zin van het woord, ze zijn immers specialistisch opgeleid gericht op het web.
 
+In een schakelprogramma moet gezien voorgaande aandacht zijn voor i) onderzoekend vermogen, ii) ontwerptheorie en iii) visual/interface design. Wij stellen het volgende voor:
 
-##### Maatschappij en interactie
+### Voorstel
+
+#### Maatschappij en interactie
 
 Hiermee worden de volgende indicatoren die onder de CMD competentie 'Persoonlijk en geëngageerd ontwerpen' vallen, gedekt:
 
@@ -43,7 +49,7 @@ En onder de CMD competentie 'Evalueren', de volgende indicator:
 
 
 
-##### New Product Development
+#### New Product Development
 
 Hiermee worden de volgende indicatoren die onder de CMD competentie 'Vakkundig en onderzoekend vermogen' vallen, gedekt:
 
@@ -69,7 +75,7 @@ Onder de CMD competentie 'Georganiseerd en professioneel ontwerpen', de volgende
 
 
 
-##### Visual Interface Design
+#### Visual Interface Design
 
 Hiermee worden de volgende indicatoren die onder de CMD competentie 'Verbeelden en conceptualiseren' vallen, gedekt:
 
@@ -82,16 +88,14 @@ Hiermee worden de volgende indicatoren die onder de CMD competentie 'Verbeelden 
 
 
 
-##### Het Passie project (een team project)
+#### Het Passie project (een team project)
 
 Hiermee worden alle indicatoren die onder de CMD competentie 'Samen ontwerpen' vallen, gedekt. Deze competentie beheersen FDND studenten over het algemeen al, aangezien ze al veel hebben moeten samenwerken. Maar omdat de overgang voor sommige studenten groot kan zijn en ze in dit project vrij gelaten worden, denken we dat het een goed project is om andere studenten te leren kennen en te wennen aan de manier van werken bij CMD.
 
 
 
 
-<img width="1023" alt="Screenshot 2022-11-14 at 14 58 08" src="https://user-images.githubusercontent.com/55133339/201680826-f58545ed-d4ea-46e7-8a53-1f3bdb2b3236.png">
 
-*Het (nieuwe) CMD competentiemodel met in het paars de indicatoren waaraan de FDND student voorafgaand aan het schakelprogramma al voldoet, en in het rood de indicatoren waaraan voldaan is wanneer de student het schakelprogramma heeft gevolgd.*
 
 
 
