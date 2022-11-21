@@ -16,7 +16,7 @@ Wij hebben de vijf gedragscriteria van FDND vergeleken met de nieuwe competentie
 
 Dan het nieuwe CMD competentiemodel. In het paars zijn indicatoren gemarkeerd waar de FDND student voorafgaand aan het schakelprogramma al aan voldoet. Deze overlap is tot stand gekomen door grondige bestudering van beide modellen en voorgelegd aan leden van de examencommissie en curriculumcommissie voor aanvang van de zomer 2022. In dit model is in het rood gemarkeerd op welke hiaten het schakelprogramma gericht is, merk op dat alle hier bedoelde indicatoren uit het fundament van CMD komen.
 
-![CMD competentiemodel met ](https://user-images.githubusercontent.com/55133339/201680826-f58545ed-d4ea-46e7-8a53-1f3bdb2b3236.png)
+![CMD competentiemodel (nieuw)](https://user-images.githubusercontent.com/55133339/201680826-f58545ed-d4ea-46e7-8a53-1f3bdb2b3236.png)
 
 ### Overlap en hiaten
 
@@ -26,154 +26,120 @@ FDND afstudeerders hebben Frontend Design en Development op niveau 5 gestudeerd.
 
 Ze hebben echter geen ervaring met ontwerponderzoek, wat inhoudt dat ze: i) de grotere context van een ontwerp probleem niet onderzoeken, ii) weinig theoretische onderbouwing gebruiken bij het oplossen van een vraagstuk (slechts op het gebied van ontwerp- en realisatiekeuzes). En iii) nog weinig kritisch maatschappelijke visie hebben ontwikkeld. iv) Daarnaast hebben ze écht nog wat te leren op het gebied van ontwerpen in de bredere zin van het woord, ze zijn immers specialistisch opgeleid gericht op het web.
 
-In een schakelprogramma moet gezien voorgaande aandacht zijn voor i) onderzoekend vermogen, ii) ontwerptheorie en iii) visual/interface design. Wij stellen het volgende voor:
+In een schakelprogramma moet gezien voorgaande voldoende aandacht zijn voor i) onderzoekend vermogen, ii) ontwerptheorie, iii) visual/interface design en iv) maatschappelijk belang.
 
-### Voorstel
+### Voorstel voor een schakelprogramma
 
-#### Maatschappij en interactie
+Om FDND afstudeerders kennis te laten maken met CMD én te toetsen of ze het niveau hebben om in beoogde snelheid op Bachelorniveau door te studeren stellen wij het volgende programma voor. Hierbij wordt gelet op aandachtspunten uit voorgaande argumentatie.
 
-Hiermee worden de volgende indicatoren die onder de CMD competentie 'Persoonlijk en geëngageerd ontwerpen' vallen, gedekt:
+#### New Product Development (3 EC)
 
-> Staat stil bij de maatschappelijke impact van het ontwerp
-> Benoemt behandelde (internationale) ontwikkelingen in het vakgebied.
->
-> Benadert opdrachten kritisch en maakt onderbouwd keuzes.
-> 
+Allereerst NPD, hiermee wordt aandacht besteed aan onderzoekend vermogen en leren studenten op basis van onderzoek een passende oplossing te realiseren. Dit sluit aan op de werkwijze bij FDND maar heeft een andere gerichtheid, namelijk een ontwerp ipv. een product voor het web bouwen.
 
+De volgende indicatoren onder de CMD competentie 'Vakkundig en onderzoekend vermogen' vallen worden gedekt:
 
-En onder de CMD competentie 'Evalueren', de volgende indicator:
-
-> Ziet de maatschappelijke gevolgen van een ontwerp.
-
-
-
-
-
-#### New Product Development
-
-Hiermee worden de volgende indicatoren die onder de CMD competentie 'Vakkundig en onderzoekend vermogen' vallen, gedekt:
-
-> Schat de bruikbaarheid van eigen onderzoek en dat van anderen op waarde.
-> Doet onderzoek in alle fases van het project met aangereikte ontwerptheorieën en methodieken.
->
-> Toetst ontwerpideeën aan het probleem.
-> 
+- Schat de bruikbaarheid van eigen onderzoek en dat van anderen op waarde.
+- Doet onderzoek in alle fases van het project met aangereikte ontwerptheorieën en methodieken.
+- Toetst ontwerpideeën aan het probleem.
 
 Onder de CMD competentie 'Orienteren en begrijpen', de volgende indicatoren:
 
-> Voert onderoek uit en past de ontwerpvraag hierop aan.
-> Is op de hoogte van verschillende gegeven invalshoeken en weegt deze mee in de ontwerpvraag.
->
+- Voert onderoek uit en past de ontwerpvraag hierop aan.
+- Is op de hoogte van verschillende gegeven invalshoeken en weegt deze mee in de ontwerpvraag.
 
 Onder de CMD competentie 'Georganiseerd en professioneel ontwerpen', de volgende indicatoren:
 
->Kan een ontwerpproces uitvoeren en overdragen.
->Communiceert en onderbouwt ontwerpkeuzes en producten passend bij het publiek. Kan informeren, overleggen en overtuigen.
+- Kan een ontwerpproces uitvoeren en overdragen.
+- Communiceert en onderbouwt ontwerpkeuzes en producten passend bij het publiek. Kan informeren, overleggen en overtuigen.
 
+#### Visual Interface Design (3 EC)
 
+Daarna VID, hiermee wordt aandacht besteed aan ontwerptheorie en visual interface design en leren studenten vanuit regels en richtlijnen ontwerpen. Een aantal principes uit VID zijn bij FDND de revue gepasseerd maar zijn niet theoretisch ingestoken. Het lijkt ons goed studenten dit typische CMD ontwerp vak mee te geven.
 
+Bij VID worden de volgende indicatoren die onder de CMD competentie 'Verbeelden en conceptualiseren' gedekt:
 
+- Past aangeboden trends en ontwikkelingen toe in ideeën en concepten (was al afgedekt)
+- Zet creativiteit in bij het maken van concepten en bedenken van ideeën.
 
+#### Maatschappij en interactie (3 EC)
 
-#### Visual Interface Design
+Vervolgens M&I, hiermee wordt aandacht besteed aan maatschappelijk belang. Bij FDND zijn sociaal maatschappelijke aspecten enkel in relatie tot het web behandeld. Denk hierbij aan zaken als inclusiviteit, performance en bruikbaarheid. Het lijkt goed om studenten de brede maatschappelijke impact van het ontwerpersvak mee te geven.
 
-Hiermee worden de volgende indicatoren die onder de CMD competentie 'Verbeelden en conceptualiseren' vallen, gedekt:
+Bij M&I worden de volgende indicatoren onder de CMD competentie 'Persoonlijk en geëngageerd ontwerpen' gedekt:
 
-> Past aangeboden trends en ontwikkelingen toe in ideeën en concepten (was al afgedekt)
->
-> Zet creativiteit in bij het maken van concepten en bedenken van ideeën.
+- Staat stil bij de maatschappelijke impact van het ontwerp
+- Benoemt behandelde (internationale) ontwikkelingen in het vakgebied.
+- Benadert opdrachten kritisch en maakt onderbouwd keuzes.
 
+En onder de CMD competentie 'Evalueren' de volgende indicator:
 
+- Ziet de maatschappelijke gevolgen van een ontwerp.
 
+#### Het Passie project (een team project) (5 EC)
 
+Tenslotte het passie project. Er moet in acht worden gehouden dat deze studenten erg goed zijn in het realiseren van een product maar de ontwerp cyclus nog niet volledig beheersen. Door samen te werken met CMD studenten kan het mes aan twee kanten snijden. FDNDers leren veel over het ontwerpproces en CMDers hebben mensen in hun team die een webgericht concept goed kunnen realiseren.
 
+Bij het passie project worden alle indicatoren onder de CMD competentie 'Samen ontwerpen' gedekt. Deze competentie beheersen FDND studenten over het algemeen al, aangezien ze al veel hebben moeten samenwerken. Maar omdat de overgang voor sommige studenten groot kan zijn en ze in dit project vrij gelaten worden, denken we dat het een goed project is om andere studenten te leren kennen en te wennen aan de manier van werken bij CMD.
 
-#### Het Passie project (een team project)
+#### Eigen onderzoek (1 EC)
 
-Hiermee worden alle indicatoren die onder de CMD competentie 'Samen ontwerpen' vallen, gedekt. Deze competentie beheersen FDND studenten over het algemeen al, aangezien ze al veel hebben moeten samenwerken. Maar omdat de overgang voor sommige studenten groot kan zijn en ze in dit project vrij gelaten worden, denken we dat het een goed project is om andere studenten te leren kennen en te wennen aan de manier van werken bij CMD.
+Een SRP achtige opdracht gericht op het onderzoeken van de overlap tussen FDND en CMD. Dit heeft als resultaat dat studenten in het schakelprogramma i) CMD goed leren kennen en ii) zich bewust worden van het traject dat voor ze ligt.
 
+Ze doen dit door een aantal typische CMD onderzoeksmethoden uit de CMD-methods toolkit toe te passen. Bijvoorbeeld een paar docenten en studenten interviewen, desk-research op de website, een open dag bezoeken. Ze schrijven een verslag van max 1500 woorden om hun resultaten te rapporteren, ze doen dat via een website die volgend jaar gebruikt kan worden om studenten voor te lichten over het schakelprogramma.
 
+## Het verloop bij CMD als het Associate degree diploma is behaald
 
+Wij doen voor het vervolg van de studie bij CMD een voorstel met 2 opties. Een waarbij er geen korte of lange stage wordt gelopen en een waarbij er wel een stage wordt gelopen. Het voorstel zonder stage is in onze optiek mogelijk omdat FDND studenten tijdens hun gehele studie voor echte opdrachtgevers hebben gewerkt, soms zelfs op locatie. Ze hebben veel praktijkervaring opgedaan en kunnen hun twee jaar op de bacheloropleiding besteden om dieper en inhoudelijker op het ontwerpproces en de context van een vraagstuk in te gaan.
 
+Het voorstel is nog kaal en heeft als doel iets te hebben waar we op kunnen schieten, een startpunt voor verdere gesprekken met de examencommissie en curriculumcommissie.
 
+### Voorstel (120 EC)
 
+#### Jaar 1 (3) - blok 1 (15 EC)
 
-
-### Het verloop bij CMD als het Associate degree diploma is behaald
-
-WIj doen voor het vervolg van de studie bij CMD twee voorstellen. Een waarbij er geen korte of lange stage wordt gelopen en een waarbij er wel een stage wordt gelopen.
-
-
-
-#### Voorstel 1
-
-Het eerste voorstel is mogelijk omdat FDND studenten tijdens hun gehele studie voor echte opdrachtgevers hebben gewerkt, soms zelfs op locatie. Ze hebben dus veel praktijkervaring opgedaan en kunnen hun twee jaar op de bacheloropleiding besteden om dieper en inhoudelijker op het ontwerpproces en de context van een vraagstuk in te gaan. Een student zou in dit voorstel de volgende vakken volgen:
-
-
-
-##### Jaar 1 (3) - blok 1
-
-> Human computer interaction
+##### Human computer interaction (3 EC)
 
 Dit vak wordt afgerond met een theorie-examen en zou o.a. om die reden een goede manier zijn om te kijken of de student het bachelor niveau daadwerkelijk aankan. 
 
-
-> User centered design
+##### User centered design (3 EC)
 
 Om dezelfde indicatoren zoals bij New Product Development genoemd, nogmaals af te dekken. CMD studenten hebben dit in het Propedeusjaar ook twee keer moeten doen.
 
-
-> Ontwerpgeschiedenis
+##### Ontwerpgeschiedenis (3 EC)
 
 Om dezelfde indicatoren zoals bij Media Impact genoemd, nogmaals af te dekken. CMD studenten hebben dit in het Propedeusjaar ook twee keer moeten doen.
 
-
-> Project 2 uit de Propedeuse
+##### Project 2 uit de Propedeuse (5 EC)
 
 Om het zelfstandig werken aan een project en het hele proces van A naar B alleen uit te leren voeren. CMD-studenten hebben dit in de Propedeuse twee keer moeten doen. FDND studenten hebben weliswaar zelfstandig frontend-projecten uitgevoerd maar daarin de onderzoekende fase nooit alleen uitgevoerd.
 
+#####  Een SRP-project dat verplicht gericht is op taal en formulering (1 EC)
 
-> Een SRP-project dat verplicht gericht is op taal en formulering
+Bij FDND besteden we weinig aandacht aan taal. CMD-studenten moeten inhoudelijker documentatie kunnen schrijven. De studenten zouden bijvoorbeeld de MOOC 'Beter schrijven' kunnen doen. 
 
-Bij FDND besteden we nog weinig aandacht aan taal. CMD-studenten moeten inhoudelijker documentatie kunnen schrijven. De studenten zouden bijvoorbeeld de MOOC 'Beter schrijven' kunnen doen. 
+#### De rest van de studie
 
+Voor het uitdenken van de rest van het pad hebben we gekeken naar hoe studenten zoveel mogelijk dezelfde onderdelen zouden volgen als een reguliere CMD-student. FDNDers kunnen blok WEB overslaan aangezien er tijdens dit blok vooral aandacht is voor de competentie 'Prototypen en uitwerken'. Aan deze indicatoren is tijdens de studie bij FDND al voldaan op niveau 5. 
 
+##### Jaar 1 (3) - blok 2
 
+Blok Beyond, om de fuzzy frontend van het ontwerptraject mee te krijgen en een project voorbij het web te realiseren én meer grip te krijgen op de CMD-methods (ontwerponderzoek)
 
-##### Wat doen ze niet?
+##### Jaar 1 (3) - blok 3
 
-Studenten kunnen blok WEB overslaan aangezien er tijdens dit blok vooral aandacht is voor de competentie 'Prototypen en uitwerken'. Aan deze indicatoren is tijdens de studie bij FDND al voldaan. 
+Profileringsproject + profileringsvak met uitsluiting van project Tech en Frontend for Designers omdat ze die materie al bewezen bezitten.
 
+##### Jaar 1 (3) - blok 4 (2 OPTIES!)
 
+Korte stage óf een 2e profileringsproject + profileringsvak met uitsluiting van project Tech en Frontend for Designers omdat ze die materie al bewezen bezitten.
 
+De argumentatie voor een stage zou zijn om in een CMD rol te leren werken, omdat ze tijdens FDND doorlopend in een arbeidssituatie hebben gewerkt zou de optie om een 2e profileringsproject te volgen ook heel goed zijn. Ze kunnen dan bijvoorbeeld project Visual én Interaction doen en leren zo beide beroepsrichtingen goed kennen.
 
-##### De rest van de studie
+##### Jaar 2 (4)- blok 1 + 2
 
-Voor het uitdenken van de rest van het pad hebben we gekeken naar hoe studenten zoveel mogelijk dezelfde onderdelen zouden volgen als een reguliere CMD-student. Het enige verschil in dit voorstel is dat de voormalig FDND-student in dit voorstel geen stage loopt.
+Keuze uit verdiepende CMD Minoren. Een volledig vrije minor lijkt ons verspilde moeite, deze studenten moeten immers de meeste van hun profileringsindicatoren aantonen en met een minor Spaans, hoe tof ook, gaat dat minder goed.
 
-##### 		Jaar 1 (3) - blok 2
+##### Jaar 2 (4)- blok 3 + 4
 
-> Blok Beyond
-
-##### 		Jaar 1 (3) - blok 3
-
-> Profileringsproject + profileringsvak (dit mag niet Frontend for Designers zijn)
-
-##### 		Jaar 1 (3) - blok 4
-
-> Profileringsproject + profileringsvak (dit mag niet Frontend for Designers zijn)
-
-##### 		Jaar 2 (4)- blok 1 + 2
-
-> CMD Minor
-
-##### 		Jaar 2 (4)- blok 3 + 4
-
-> Afstudeerproject
-
-
-
-
-
-#### Voorstel 2
+FDND schakelprogramma studenten draaien regulier mee met het afstudeerproject.
 
