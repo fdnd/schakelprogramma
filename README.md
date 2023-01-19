@@ -30,6 +30,8 @@ In een schakelprogramma moet gezien voorgaande voldoende aandacht zijn voor i) o
 
 ### Voorstel voor een schakelprogramma
 
+* Dit voorstel is voor 2022/23 geaccepteerd *
+
 Om FDND afstudeerders kennis te laten maken met CMD én te toetsen of ze het niveau hebben om in beoogde snelheid op Bachelorniveau door te studeren stellen wij het volgende programma voor. Hierbij wordt gelet op aandachtspunten uit voorgaande argumentatie.
 
 #### New Product Development (3 EC)
@@ -88,6 +90,8 @@ Een SRP achtige opdracht gericht op het onderzoeken van de overlap tussen FDND e
 Ze doen dit door een aantal typische CMD onderzoeksmethoden uit de CMD-methods toolkit toe te passen. Bijvoorbeeld een paar docenten en studenten interviewen, desk-research op de website, een open dag bezoeken. Ze schrijven een verslag van max 1500 woorden om hun resultaten te rapporteren, ze doen dat via een website die volgend jaar gebruikt kan worden om studenten voor te lichten over het schakelprogramma.
 
 ## Het verloop bij CMD als het Associate degree diploma is behaald
+
+* Aan verandering onderhevig *
 
 Wij doen voor het vervolg van de studie bij CMD een voorstel met 2 opties. Een waarbij er geen korte of lange stage wordt gelopen en een waarbij er wel een stage wordt gelopen. Het voorstel zonder stage is in onze optiek mogelijk omdat FDND studenten tijdens hun gehele studie voor echte opdrachtgevers hebben gewerkt, soms zelfs op locatie. Ze hebben veel praktijkervaring opgedaan en kunnen hun twee jaar op de bacheloropleiding besteden om dieper en inhoudelijker op het ontwerpproces en de context van een vraagstuk in te gaan.
 
